@@ -1,0 +1,7 @@
+GenderAge_API
+1. Let us download random people faces from google and save them in our project_directory
+2. Assign the path of downloaded images to our code
+3. Load the best weight files stored from the checkpoint folder & save the code
+4. Run the command prompt in our project_directory : genderage_api
+5. Change the enviroment with suitable libraries installed
+6. Run final.py to obtain our results.
